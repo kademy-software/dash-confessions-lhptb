@@ -1,5 +1,5 @@
 # dash-confessions-lhptb
-*Mã nguồn mở* 
+*Mã nguồn mở / Khi sử dụng vui lòng ghi rõ của Lê Kiệt * 
 
 Xây dựng bằng HTML,CSS và JS. 
 
